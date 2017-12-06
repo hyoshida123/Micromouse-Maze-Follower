@@ -6,6 +6,8 @@ Code for IEEE Micromouse at Berkeley
 - Arduino Nano
 - Infrared Distance Sensors
 - DRV8833 module (To produce enough current for motors)
+# Control Algorithm
+PID control
 
 ![image](https://user-images.githubusercontent.com/31583131/33655521-1a013ab4-da28-11e7-9e32-c6b2976088b0.jpg)
 ![image](https://user-images.githubusercontent.com/31583131/33655578-4aa0e69c-da28-11e7-8126-287a9a50e896.jpg)
